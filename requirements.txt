@@ -1,0 +1,3 @@
+requests
+argparse
+os_sys
