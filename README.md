@@ -3,7 +3,7 @@ Hello Everyone, this tool is made by python language and in this python tool you
 # How to setup 
 1. Clone the repository to you system
 ```
-sudo git clone https://github.com/jaiswar-yash/directory-bruteforce
+sudo git clone https://github.com/jaiswar-yash/directory-bruteforce.git
 ```
 2. Install all the requirements
 ```
